@@ -1,3 +1,11 @@
+"""
+Deletion from a Singly Linked List
+Write a function to delete a node from a singly linked list and return deleted_node. 
+
+The function should take the index(starting from 0) of the node to be deleted as a parameter.
+
+"""
+
 class Node:
     def __init__(self, value):
         self.value = value
